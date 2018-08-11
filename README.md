@@ -1,4 +1,6 @@
 # 接口测试平台从开始到放弃
+
+#https://testerhome.com/topics/13609
 # python3.6.3 Django 2.0.2框架
 体验地址：http://120.79.232.23  请体验用户不要删除已有数据<br>
 账号：admin 密码：admin369874125
